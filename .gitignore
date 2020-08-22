@@ -1,0 +1,14 @@
+# parcel #
+.cache
+dist
+
+# Yarn / NPM #
+.DS_*
+*.log
+logs
+node_modules
+
+# Visual Studi Code #
+.history
+!.vscode/tasks.json
+!.vscode/launch.json
