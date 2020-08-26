@@ -21,29 +21,29 @@ body {
       text-decoration: line-through;
     }
 
-    form {
-      width: 100%;
-      display: flex;
+    // form {
+    //   width: 100%;
+    //   display: flex;
 
-      input[type="text"] {
-        height: 30px;
-        width: 100%;
-        border: 1px solid #ccc;
-        border-radius: 5px 0 0 5px;
-        padding: 5px;
-        outline-color: #42383b;
-        font-size: 14pt;
-      }
+    //   input[type="text"] {
+    //     height: 30px;
+    //     width: 100%;
+    //     border: 1px solid #ccc;
+    //     border-radius: 5px 0 0 5px;
+    //     padding: 5px;
+    //     outline-color: #42383b;
+    //     font-size: 14pt;
+    //   }
 
-      button {
-        background-color: #42383b;
-        color: #fff;
-        border: 0;
-        padding: 0 20px;
-        border-radius: 0px 5px 5px 0px;
-        font-size: 14pt;
-      }
-    }
+    //   button {
+    //     background-color: #42383b;
+    //     color: #fff;
+    //     border: 0;
+    //     padding: 0 20px;
+    //     border-radius: 0px 5px 5px 0px;
+    //     font-size: 14pt;
+    //   }
+    // }
 
     table {
       width: 100%;
